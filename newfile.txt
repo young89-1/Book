@@ -1,1 +1,5 @@
-I'm learning Git!
+I'm learning Git! Git is fun, 
+
+I'm really git'ing the hang of it.
+
+Devs are lazy!
