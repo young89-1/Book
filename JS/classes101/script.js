@@ -51,6 +51,14 @@ class Dog extends Animal {
     bark() {
         console.log("Woof!");
     }
+    sayHello() {
+        console.log(`${this.name} the ${this.breed} dog says hello.
+        `);
+    }
 }
 
 const myDog = new Dog("Buddy", 3, "Golden Retriever");
+
+console.log(myDog);
+myDog.bark();
+myDog.sayHello();
